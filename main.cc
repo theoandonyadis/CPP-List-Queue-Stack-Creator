@@ -1,6 +1,6 @@
 //Theo Andonyadis
-//ECE 2620 Section 001
-//Lab 6
+/*This program allows the user to create different types of lists: Unsorted, Sorted, Queue, or Stack. The program uses menus to allow the user to select their preferred list
+and prompts them to create it by simply inputting integers, as well as displaying the list and deleting values from it.*/
 #include <iostream>
 #include <ctime>
 #include "myheaders.h"
